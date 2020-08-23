@@ -39,8 +39,6 @@ Nossa missão é conectar pessoas e organizações de um jeito único. Somos fei
     </a>
 </div>
 
-### 1.2. Premiação
-
 ## 2. Desafio de negócio
 
 O turnover alto gera uma série de custos adicionais, indo muito além do impacto na lucratividade, rentabilidade e o próprio crescimento da organização. A saída em excesso cria um clima inadequado, no qual conflitos interpessoais podem ocorrer com maior frequência, e gerando também a perda de conhecimento. A comunicação interna e externa é afetada, impactando inclusive na atração de novos talentos.
