@@ -73,7 +73,7 @@ Para realizar esse desafio você deverá cumprir os seguintes pré-requisitos:
 7. Modele sua solução
 8. A saída do seu modelo deve ser uma tabela, você encontra ela no lado esquerdo na aba 'Output'
 9. Faça o deploy da tabela no *Watson Machine Learning*
-10. Acessar a página [https://algartech.maratona.dev](https://algar.maratona.dev), testar e submeter sua solução.
+10. Acessar a página [https://algartech.maratona.dev](https://algartech.maratona.dev), testar e submeter sua solução.
 
 ### 4.3. Desenvolvimento
 
