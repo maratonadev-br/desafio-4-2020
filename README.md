@@ -45,7 +45,7 @@ O turnover alto gera uma série de custos adicionais, indo muito além do impact
 
 ## 3. Objetivo
 
-Este desafio tem como objetivo criar um modelo no *Modeler Flow* (SPSS) capaz de encontrar o melhor candidato de acordo com as variáveis do dataset fornecido. Sua terefa é modelar os dados de tal forma que o modelo que recebe como entrada todas as colunas do dataset e forneça como saída se o canditado deve ser contrado ou não.
+Este desafio tem como objetivo criar um modelo no *Modeler Flow* (SPSS) capaz de encontrar o melhor candidato de acordo com as variáveis do dataset fornecido. Sua terefa é modelar os dados de tal forma que o modelo que recebe como entrada todas as colunas do dataset e forneça como saída se o candidato deve ser contratado ou não.
 
 <div align="center">
     <a href="https://youtu.be/lcexUZ5QBEs" target="_blank">
