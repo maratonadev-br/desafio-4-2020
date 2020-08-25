@@ -94,7 +94,7 @@ Obs: Você é livre para modelar na plataforma que se sentir mais confortável, 
 
 Para realizar a submissão, primeiramente você deverá acessar a seguinte aplicação: https://algartech.maratona.dev/ e preencher o formulário com as credenciais de sua instância do **Watson Machine Learning** e a **URL endpoint** para scoring de seu modelo. Nessa página você será capaz de fazer uma predição -- desde que as credenciais e a URL de scoring estejam corretas e o modelo funcione da maneira especificada nos notebooks fornecidos.
 
-No prompt de submissão, você precisa enviar o arquivo ``.srt`` de seu Modeler Flow exportado.
+No prompt de submissão, você precisa enviar o arquivo ``.str`` de seu Modeler Flow exportado.
 
 🚨 **NÃO ESQUEÇA DE SUBMETER SUA SOLUÇÃO** 🚨
 
