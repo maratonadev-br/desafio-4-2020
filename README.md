@@ -10,7 +10,7 @@
   - [1.2. Premiação](#12-premiação)
 - [2. Desafio de negócio](#2-desafio-de-negocio)
 - [3. Objetivo](#3-objetivo)
-- [4. Desenvolvendo a Solução](#4-desenvolvendo-a-solucao)
+- [4. Desenvolvendo a Solução](#4-desenvolvendo-a-solução)
   - [4.1. Pré-requisitos](#41-pré-requisitos)
   - [4.2. Resumo das tarefas](#42-resumo-das-tarefas)
   - [4.3. Desenvolvimento](#43-desenvolvimento)
