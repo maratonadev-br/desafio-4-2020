@@ -65,16 +65,14 @@ Para realizar esse desafio você deverá cumprir os seguintes pré-requisitos:
 ### 4.2. Resumo das tarefas
 
 1. Instanciar o Watson Studio (Cloud Pak for Data as a Service) na IBM Cloud - ATENÇÃO: Se você já fez o [desafio 2](https://github.com/maratonadev-br/desafio-2-2020) não precisa instanciar um novo, pode usar a mesma;
-2. Instanciar o Watson Machine Learning na IBM Cloud - ATENÇÃO: Se você já fez o [desafio 2](https://github.com/maratonadev-br/desafio-2-2020) não precisa instanciar um novo, pode usar a mesma;
-3. Instanciar o Cloud Object Storage na IBM Cloud - ATENÇÃO: Se você já fez o [desafio 2](https://github.com/maratonadev-br/desafio-2-2020) não precisa instânciar um novo, pode usar a mesma;
-4. Importar o projeto fornecido neste repositório cloud-pak-project-modeler-flow-4.zip no Watson Studio;
-5. Clique em 'Add to project' em seguida insira o *Modeler Flow* no projeto;
-6. Escolha a opção 'from file' e faça o upload do arquivo [algar-flow.str](./algar-flow.str)
-7. Modele sua solução
-8. A saída do seu modelo deve ser uma tabela, você encontra ela no lado esquerdo na aba 'Output'
-9. Faça o deploy da tabela no *Watson Machine Learning*
-10. Exporte seu *Modeler Flow* e compacte ele numa pasta zip. Você deve submeter ele também
-11. Acessar a página [https://algartech.maratona.dev](https://algartech.maratona.dev), testar e submeter sua solução.
+2. Instanciar o Cloud Object Storage na IBM Cloud - ATENÇÃO: Se você já fez o [desafio 2](https://github.com/maratonadev-br/desafio-2-2020) não precisa instânciar um novo, pode usar a mesma;
+3. Criar um projeto em branco no Watson Studio;
+4. Clique em 'Add to project' em seguida insira o *Modeler Flow* no projeto;
+5. Escolha a opção 'from file' e faça o upload do arquivo [modeler_flow.str](./modeler_flow.str)
+6. Adicione os dois arquivos .csv fornecidos neste repositório (pasta data)
+7. A saída do seu modelo deve ser uma tabela, você encontra ela no lado esquerdo na aba 'Output'
+8. Exporte seu *Modeler Flow* e compacte ele numa pasta zip junto com o arquivo results.csv, conforme mostrado no vídeo abaixo. Você deve submeter ele também
+9. Acessar a página [https://algartech.maratona.dev](https://algartech.maratona.dev) e faça upload do arquivo zip com a solução.
 
 ### 4.3. Desenvolvimento
 
@@ -84,25 +82,17 @@ Para simplificar o desafio e mostrar ao usuários outras opções de modelagem d
 
 Em linhas gerais, o *Modeler Flow* tem a mesma função de um jupyter notebook, a diferença reside no fato de que a ferramante abstraí a parte do código para focar somente nos dados.
 
-No vídeo do item 3 acima, é explicado o passo a passo do que deve ser feito para criar um modelo no *Modeler Flow*, o deploy do modelo no *Watson Machine Learning* e como submeter sua solução.
-
-Você não é obrigado a criar uma solução utilizando o *Modeler Flow*, fique a vontade para utilizar o jupyter notebook caso desejar, porém a sua solução deve ser estar no *Watson Machine Learning*, a entrada do modelo dever ser obrigatoriamente todos as variáveis contidas no dataset.
-
-Obs: Você é livre para modelar na plataforma que se sentir mais confortável, porém o suporte só será fornecido para o *Modeler Flow*.
-
 ## 5. Submissão
 
-Para realizar a submissão, primeiramente você deverá acessar a seguinte aplicação: https://algartech.maratona.dev/ e preencher o formulário com as credenciais de sua instância do **Watson Machine Learning** e a **URL endpoint** para scoring de seu modelo. Nessa página você será capaz de fazer uma predição -- desde que as credenciais e a URL de scoring estejam corretas e o modelo funcione da maneira especificada nos notebooks fornecidos.
+**ATENÇÃO! UPDATE NO PROCESSO DE SUBMISSÃO**
 
-No prompt de submissão, você precisa enviar o arquivo ``.str`` de seu Modeler Flow exportado.
+Veja o vídeo https://youtu.be/h0RyVM1K0i4 com as novas instruções (apenas para submissões realizadas após o dia 3/SET)
 
-🚨 **NÃO ESQUEÇA DE SUBMETER SUA SOLUÇÃO** 🚨
-
-Após a realização dos testes, clique no botão no canto inferior direito para SUBMETER SUA SOLUÇÃO, e preencha o formulário com seu e-mail utilizado no registro na MARATONA 2020.
+Para realizar a submissão, primeiramente você deverá acessar a seguinte aplicação: https://algartech.maratona.dev/ e preencher o formulário com seu e-mail (usado no registro no https://maratona.dev/) e fazer upload do arquivo .zip com seu "modeler_flow.str" e "results.csv".
 
 ## 6. Sobre a avaliação
 
-Nosso sistema de avaliação automática irá calcular métricas de acurácia e pontuar sua solução de acordo com a qualidade do modelo submetido. Sua solução deve **obrigatoriamente** estar hospedada no *Watson Machine Learning*.
+Nosso sistema de avaliação automática irá calcular métricas de acurácia e pontuar sua solução de acordo com a qualidade do modelo submetido.
 
 O tempo de entrega não entra no cálculo da pontuação do desafio. Entretanto, para todos os participantes que entregarem esse desafio na primeira semana após o lançamento receberão um bônus na pontuação final.
 

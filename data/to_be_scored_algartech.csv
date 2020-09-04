@@ -1,0 +1,101 @@
+Idade,Local de trabalho,Pontuação teste,Departmento,Distancia casa-trabalho,Educacao,Area,Possui carro,Subordinado,Satisfação com o ambiente no emprego atual,Genero,Horas voluntariado,Envolvimento com trabalho,Posicao,Cargo,Satisfação com emprego,Estado civil,Renda,Bonus de performance,Quantidade de empresas que trabalho,Maior de idade,Necessita de hora extra,Aumento de salario%,Performance na entrevista,Satisfação com a relação,Horas de trabalho padrão,Beneficios,Anos de experiencia,Horas de treinamento ultimo ano,Estilo de vida,Anos na última empresa,Anos na posição atual,Anos desde última promoção,Anos com a mesma gerência
+40,Misto,444,Vendas,2,Superior incompleto,Marketing,1,1986,2,F,92,3,2,Vendedo senior,2,Casado,5677,4258,3,1,Não,14,3,3,80,1,15,4,3,11,8,5,10
+25,Misto,309,RH,2,Superior completo,Ciências humanas,1,1987,3,F,82,3,1,Assistente,2,Casado,2187,19655,4,1,Não,14,3,3,80,0,6,3,3,2,0,1,2
+30,Misto,911,Engenharia,1,Superior incompleto,Medicina,1,1989,4,M,76,3,1,Tecnico,2,Casado,3748,4077,1,1,Não,13,3,3,80,0,12,6,2,12,8,1,7
+25,Misto,977,Engenharia,2,Médio completo,Outros,1,1992,4,M,57,3,1,Tecnico,3,Divorciado,3977,7298,6,1,Sim,19,3,3,80,1,7,2,2,2,2,0,2
+47,Escritório,1180,Engenharia,25,Superior completo,Medicina,1,1993,1,M,84,3,3,Analista,3,Solteiro,8633,13084,2,1,Não,23,4,2,80,0,25,3,3,17,14,12,11
+33,Misto,1313,Engenharia,1,Superior incompleto,Medicina,1,1994,2,M,59,2,1,Tecnico,3,Divorciado,2008,20439,1,1,Não,12,3,3,80,3,1,2,2,1,1,0,0
+38,Misto,1321,Vendas,1,Superior incompleto - cursando,Ciências das natureza,1,1995,4,M,86,3,2,Vendedo senior,2,Casado,4440,7636,0,1,Não,15,3,1,80,2,16,3,3,15,13,5,8
+31,Cliente,1154,Vendas,2,Superior incompleto,Ciências das natureza,1,1996,1,M,54,3,1,Vendedor junior,3,Casado,3067,6393,0,1,Não,19,3,3,80,1,3,1,3,2,2,1,2
+38,Misto,508,Engenharia,6,Superior incompleto - cursando,Ciências das natureza,1,1997,1,M,72,2,2,Supervisor,3,Casado,5321,14284,2,1,Não,11,3,4,80,1,10,1,3,8,3,7,7
+42,Misto,557,Engenharia,18,Superior incompleto - cursando,Ciências das natureza,1,1998,4,M,35,3,2,Engenheiro,1,Divorciado,5410,11189,6,1,Sim,17,3,3,80,1,9,3,2,4,3,1,2
+41,Escritório,642,Engenharia,1,Superior completo,Ciências das natureza,1,1999,4,M,76,3,1,Engenheiro,4,Casado,2782,21412,3,1,Não,22,4,1,80,1,12,3,3,5,3,1,0
+47,Misto,1162,Engenharia,1,Médio completo,Medicina,1,2000,3,F,98,3,3,Diretor,2,Casado,11957,17231,0,1,Não,18,3,1,80,2,14,3,1,13,8,5,12
+35,Misto,1490,Engenharia,11,Superior incompleto - cursando,Medicina,1,2003,4,M,43,3,1,Tecnico,3,Casado,2660,20232,7,1,Sim,11,3,3,80,1,5,3,3,2,2,2,2
+22,Misto,581,Engenharia,1,Superior incompleto,Ciências das natureza,1,2007,4,M,63,3,1,Engenheiro,3,Solteiro,3375,17624,0,1,Não,12,3,4,80,0,4,2,4,3,2,1,2
+35,Misto,1395,Engenharia,9,Superior incompleto - cursando,Medicina,1,2008,2,M,48,3,2,Engenheiro,3,Solteiro,5098,18698,1,1,Não,19,3,2,80,0,10,5,3,10,7,0,8
+33,Misto,501,Engenharia,15,Superior incompleto,Medicina,1,2009,2,F,95,3,2,Analista,4,Casado,4878,21653,0,1,Sim,13,3,1,80,1,10,6,3,9,7,8,1
+32,Misto,267,Engenharia,29,Superior incompleto - cursando,Ciências das natureza,1,2010,3,F,49,2,1,Tecnico,2,Solteiro,2837,15919,1,1,Não,13,3,3,80,0,6,3,3,6,2,4,1
+40,Misto,543,Engenharia,1,Superior incompleto - cursando,Ciências das natureza,1,2012,1,M,83,3,1,Tecnico,4,Casado,2406,4060,8,1,Não,19,3,3,80,2,8,3,2,1,0,0,0
+32,Misto,234,Vendas,1,Superior incompleto - cursando,Medicina,1,2013,2,M,68,2,1,Vendedor junior,2,Casado,2269,18024,0,1,Não,14,3,2,80,1,3,2,3,2,2,2,2
+39,Misto,116,Engenharia,24,Médio completo,Ciências das natureza,1,2014,1,M,52,3,2,Engenheiro,4,Solteiro,4108,5340,7,1,Não,13,3,1,80,0,18,2,3,7,7,1,7
+38,Misto,201,Engenharia,10,Superior completo,Medicina,1,2015,2,F,99,1,3,Diretor,3,Casado,13206,3376,3,1,Não,12,3,1,80,1,20,3,3,18,16,1,11
+32,Misto,801,Vendas,1,Superior incompleto - cursando,Marketing,1,2016,3,F,48,3,3,Vendedo senior,4,Casado,10422,24032,1,1,Não,19,3,3,80,2,14,3,3,14,10,5,7
+37,Misto,161,Engenharia,10,Superior completo,Ciências das natureza,1,2017,3,F,42,4,3,Diretor,4,Casado,13744,15471,1,1,Sim,25,4,1,80,1,16,2,3,16,11,6,8
+25,Escritório,1382,Vendas,8,Superior incompleto,Outros,1,2018,1,F,85,3,2,Vendedo senior,3,Divorciado,4907,13684,0,1,Sim,22,4,2,80,1,6,3,2,5,3,0,4
+52,Misto,585,Vendas,29,Superior incompleto - cursando,Ciências das natureza,1,2019,1,M,40,3,1,Vendedor junior,4,Divorciado,3482,19788,2,1,Não,15,3,2,80,2,16,3,2,9,8,0,0
+44,Misto,1037,Engenharia,1,Superior completo,Medicina,1,2020,2,M,42,3,1,Engenheiro,4,Solteiro,2436,13422,6,1,Sim,12,3,3,80,0,6,2,3,4,3,1,2
+21,Escritório,501,Vendas,5,Médio completo,Medicina,1,2021,3,M,58,3,1,Vendedor junior,1,Solteiro,2380,25479,1,1,Sim,11,3,4,80,0,2,6,3,2,2,1,2
+39,Misto,105,Engenharia,9,Superior completo,Ciências das natureza,1,2022,4,M,87,3,5,Gerente,4,Solteiro,19431,15302,2,1,Não,13,3,3,80,0,21,3,2,6,0,1,3
+36,Cliente,557,Vendas,3,Superior completo,Medicina,1,2024,1,F,94,2,3,Vendedo senior,4,Casado,7644,12695,0,1,Não,19,3,3,80,2,10,2,3,9,7,3,4
+36,Escritório,688,Engenharia,4,Superior incompleto,Ciências das natureza,1,2025,4,F,97,3,2,Supervisor,2,Divorciado,5131,9192,7,1,Não,13,3,2,80,3,18,3,3,4,2,0,2
+56,Misto,667,Engenharia,1,Superior incompleto - cursando,Ciências das natureza,1,2026,3,M,57,3,2,Analista,3,Divorciado,6306,26236,1,1,Não,21,4,1,80,1,13,2,2,13,12,1,9
+42,Misto,300,Engenharia,2,Superior completo,Ciências das natureza,1,2031,1,M,56,3,5,Gerente,3,Casado,18880,17312,5,1,Não,11,3,1,80,0,24,2,2,22,6,4,14
+41,Misto,582,Engenharia,28,Superior incompleto - cursando,Ciências das natureza,1,2034,1,F,60,2,4,Supervisor,2,Casado,13570,5640,0,1,Não,23,4,3,80,1,21,3,3,20,7,0,10
+34,Escritório,704,Vendas,28,Superior completo,Marketing,1,2035,4,F,95,2,2,Vendedo senior,3,Casado,6712,8978,1,1,Não,21,4,4,80,2,8,2,3,8,7,1,7
+36,Misto,301,Vendas,15,Superior incompleto - cursando,Marketing,1,2036,4,M,88,1,2,Vendedo senior,4,Divorciado,5406,10436,1,1,Não,24,4,1,80,1,15,4,2,15,12,11,11
+41,Misto,930,Vendas,3,Superior completo,Ciências das natureza,1,2037,3,M,57,2,2,Vendedo senior,2,Divorciado,8938,12227,2,1,Não,11,3,3,80,1,14,5,3,5,4,0,4
+32,Misto,529,Engenharia,2,Superior completo,Faculdade Técnica,1,2038,4,M,78,3,1,Engenheiro,1,Solteiro,2439,11288,1,1,Não,14,3,4,80,0,4,4,3,4,2,1,2
+35,Misto,1146,RH,26,Superior incompleto - cursando,Ciências das natureza,1,2040,3,F,31,3,3,Assistente,4,Solteiro,8837,16642,1,1,Sim,16,3,3,80,0,9,2,3,9,0,1,7
+38,Misto,345,Vendas,10,Superior incompleto,Ciências das natureza,1,2041,1,F,100,3,2,Vendedo senior,4,Casado,5343,5982,1,1,Não,11,3,3,80,1,10,1,3,10,7,1,9
+36,Misto,1120,Vendas,11,Superior incompleto - cursando,Marketing,1,2045,2,F,100,2,2,Vendedo senior,4,Casado,6652,14369,4,1,Não,13,3,1,80,1,8,2,2,6,3,0,0
+45,Misto,374,Vendas,20,Superior completo,Ciências das natureza,1,2046,4,F,50,3,2,Vendedo senior,3,Solteiro,4850,23333,8,1,Não,15,3,3,80,0,8,3,3,5,3,0,1
+40,Cliente,1322,Engenharia,2,Superior incompleto - cursando,Ciências das natureza,1,2048,3,M,52,2,1,Engenheiro,3,Solteiro,2809,2725,2,1,Não,14,3,4,80,0,8,2,3,2,2,2,2
+35,Misto,1199,Engenharia,18,Superior incompleto - cursando,Ciências das natureza,1,2049,3,M,80,3,2,Analista,3,Casado,5689,24594,1,1,Sim,14,3,4,80,2,10,2,4,10,2,0,2
+40,Misto,1194,Engenharia,2,Superior incompleto - cursando,Medicina,1,2051,3,F,98,3,1,Engenheiro,3,Casado,2001,12549,2,1,Não,14,3,2,80,3,20,2,3,5,3,0,2
+35,Misto,287,Engenharia,1,Superior incompleto - cursando,Ciências das natureza,1,2052,3,F,62,1,1,Engenheiro,4,Casado,2977,8952,1,1,Não,12,3,4,80,1,4,5,3,4,3,1,1
+29,Misto,1378,Engenharia,13,Superior incompleto,Outros,1,2053,4,M,46,2,2,Tecnico,2,Casado,4025,23679,4,1,Sim,13,3,1,80,1,10,2,3,4,3,0,3
+29,Misto,468,Engenharia,28,Superior incompleto - cursando,Medicina,1,2054,4,F,73,2,1,Engenheiro,1,Solteiro,3785,8489,1,1,Não,14,3,2,80,0,5,3,1,5,4,0,4
+39,Escritório,722,Vendas,24,Médio completo,Marketing,1,2056,2,F,60,2,4,Vendedo senior,4,Casado,12031,8828,0,1,Não,11,3,1,80,1,21,2,2,20,9,9,6
+31,Misto,325,Engenharia,5,Superior completo,Medicina,1,2057,2,M,74,3,2,Supervisor,1,Solteiro,9936,3787,0,1,Não,19,3,2,80,0,10,2,3,9,4,1,7
+26,Cliente,1167,Vendas,5,Superior completo,Outros,1,2060,4,F,30,2,1,Vendedor junior,3,Solteiro,2966,21378,0,1,Não,18,3,4,80,0,5,2,3,4,2,0,0
+36,Misto,884,Engenharia,23,Superior incompleto,Medicina,1,2061,3,M,41,4,2,Tecnico,4,Casado,2571,12290,4,1,Não,17,3,3,80,1,17,3,3,5,2,0,3
+39,Misto,613,Engenharia,6,Médio completo,Medicina,1,2062,4,M,42,2,3,Analista,1,Casado,9991,21457,4,1,Não,15,3,1,80,1,9,5,3,7,7,1,7
+27,Cliente,155,Engenharia,4,Superior completo,Ciências das natureza,1,2064,2,M,87,4,2,Supervisor,2,Casado,6142,5174,1,1,Sim,20,4,2,80,1,6,0,3,6,2,0,3
+49,Misto,1023,Vendas,2,Superior completo,Medicina,1,2065,4,M,63,2,2,Vendedo senior,2,Casado,5390,13243,2,1,Não,14,3,4,80,0,17,3,2,9,6,0,8
+34,,628,Engenharia,8,Superior completo,Medicina,1,2068,2,M,82,4,2,Tecnico,3,Casado,4404,10228,2,1,Não,12,3,1,80,0,6,3,4,4,3,1,2
+41,Misto,1102,Vendas,1,Superior incompleto,Ciências das natureza,1,1,2,F,94,3,2,Vendedo senior,4,Solteiro,5993,19479,8,1,Sim,11,3,1,80,0,8,0,1,6,4,0,5
+37,Misto,1373,Engenharia,2,Superior incompleto,Outros,1,4,4,M,92,2,1,Tecnico,3,Solteiro,2090,2396,6,1,Sim,15,3,2,80,0,7,3,3,0,0,0,0
+28,Misto,103,Engenharia,24,Superior completo,Ciências das natureza,1,19,3,M,50,2,1,Tecnico,3,Solteiro,2028,12947,5,1,Sim,14,3,2,80,0,6,4,3,4,2,0,3
+36,Misto,1218,Vendas,9,Superior incompleto - cursando,Ciências das natureza,1,27,3,M,82,2,1,Vendedor junior,1,Solteiro,3407,6986,7,1,Não,23,4,2,80,0,10,4,3,5,3,0,3
+34,Cliente,699,Engenharia,6,Médio completo,Medicina,1,31,2,M,83,3,1,Engenheiro,1,Solteiro,2960,17102,2,1,Não,11,3,3,80,0,8,2,3,4,2,1,3
+32,Misto,1125,Engenharia,16,Médio completo,Ciências das natureza,1,33,2,F,72,1,1,Engenheiro,1,Solteiro,3919,4681,1,1,Sim,22,4,2,80,0,10,5,3,10,2,6,7
+39,Misto,895,Vendas,5,Superior completo,Faculdade Técnica,1,42,4,M,56,3,2,Vendedor junior,4,Casado,2086,3335,3,1,Não,14,3,3,80,1,19,6,4,1,0,0,0
+24,Misto,813,Engenharia,1,Superior completo,Medicina,1,45,2,M,61,3,1,Engenheiro,4,Casado,2293,3020,2,1,Sim,16,3,1,80,1,6,2,2,2,0,2,0
+50,Misto,869,Vendas,3,Superior incompleto,Marketing,1,47,1,M,86,2,1,Vendedor junior,3,Casado,2683,3810,1,1,Sim,14,3,3,80,0,3,2,3,3,2,0,2
+26,Misto,1357,Engenharia,25,Superior completo,Ciências das natureza,1,55,1,M,48,1,1,Tecnico,3,Solteiro,2293,10558,1,1,Não,12,3,3,80,0,1,2,2,1,0,0,1
+41,Misto,1360,Engenharia,12,Superior completo,Faculdade Técnica,1,58,2,F,49,3,5,Diretor,3,Casado,19545,16280,1,1,Não,12,3,4,80,0,23,0,3,22,15,15,8
+48,Misto,626,Engenharia,1,Superior incompleto,Ciências das natureza,1,64,1,M,98,2,3,Tecnico,3,Solteiro,5381,19294,9,1,Sim,13,3,4,80,0,23,2,3,1,0,0,0
+28,Misto,1434,Engenharia,5,Superior incompleto - cursando,Faculdade Técnica,1,65,3,M,50,3,1,Tecnico,3,Solteiro,3441,11179,1,1,Sim,13,3,3,80,0,2,3,2,2,2,2,2
+36,Misto,318,Engenharia,9,Superior completo,Medicina,1,90,4,M,79,2,1,Engenheiro,3,Casado,3388,21777,0,1,Sim,17,3,1,80,1,2,0,2,1,0,0,0
+46,Misto,669,Vendas,9,Superior incompleto,Medicina,1,118,3,M,64,2,3,Vendedo senior,4,Solteiro,9619,13596,1,1,Não,16,3,4,80,0,9,3,3,9,8,4,7
+37,Cliente,807,RH,6,Superior incompleto - cursando,Ciências humanas,1,133,3,M,63,3,1,Assistente,1,Divorciado,2073,23648,4,1,Sim,22,4,4,80,0,7,3,3,3,2,0,2
+20,Misto,871,Engenharia,6,Superior completo,Ciências das natureza,1,137,4,F,66,2,1,Tecnico,4,Solteiro,2926,19783,1,1,Sim,18,3,2,80,0,1,5,3,1,0,1,0
+25,Cliente,240,Vendas,5,Superior completo,Marketing,1,142,3,M,46,2,2,Vendedo senior,3,Solteiro,5744,26959,1,1,Sim,11,3,4,80,0,6,1,3,6,4,0,3
+34,Misto,658,Engenharia,7,Superior completo,Ciências das natureza,1,147,1,M,66,1,2,Tecnico,3,Solteiro,6074,22887,1,1,Sim,24,4,4,80,0,9,3,3,9,7,0,6
+56,Misto,441,Engenharia,14,Superior incompleto - cursando,Ciências das natureza,1,161,2,F,72,3,1,Engenheiro,2,Casado,4963,4510,9,1,Sim,18,3,1,80,3,7,2,3,5,4,4,3
+31,Misto,249,Vendas,6,Superior incompleto - cursando,Ciências das natureza,1,163,2,M,76,1,2,Vendedo senior,3,Casado,6172,20739,4,1,Sim,18,3,2,80,0,12,3,2,7,7,7,7
+58,Misto,147,Engenharia,23,Superior incompleto - cursando,Medicina,1,165,4,F,94,3,3,Analista,4,Casado,10312,3465,1,1,Não,12,3,4,80,1,40,3,2,40,10,15,6
+19,Misto,528,Vendas,22,Médio completo,Marketing,1,167,4,M,50,3,1,Vendedor junior,3,Solteiro,1675,26820,1,1,Sim,19,3,4,80,0,0,2,2,0,0,0,0
+31,Cliente,542,Vendas,20,Superior completo,Ciências das natureza,1,175,2,F,71,1,2,Vendedo senior,3,Casado,4559,24788,3,1,Sim,11,3,3,80,1,4,2,3,2,2,2,2
+51,Misto,1150,Engenharia,8,Superior incompleto - cursando,Ciências das natureza,1,179,1,M,53,1,3,Supervisor,4,Solteiro,10650,25150,2,1,Não,15,3,4,80,0,18,2,3,4,2,0,3
+32,Cliente,1033,Engenharia,9,Superior completo,Medicina,1,190,1,F,41,3,1,Tecnico,1,Solteiro,4200,10224,7,1,Não,22,4,1,80,0,10,2,4,5,4,0,4
+19,Misto,602,Vendas,1,Médio completo,Faculdade Técnica,1,235,3,F,100,1,1,Vendedor junior,1,Solteiro,2325,20989,0,1,Não,21,4,1,80,0,1,5,4,0,0,0,0
+19,Misto,303,Engenharia,2,Superior completo,Ciências das natureza,1,243,2,M,47,2,1,Tecnico,4,Solteiro,1102,9241,1,1,Não,22,4,3,80,0,1,3,2,1,0,1,0
+41,Misto,1356,Vendas,20,Superior incompleto,Marketing,1,248,2,F,70,3,1,Vendedor junior,2,Solteiro,3140,21728,1,1,Sim,22,4,4,80,0,4,5,2,4,3,0,2
+35,Misto,556,Engenharia,23,Superior incompleto,Ciências das natureza,1,261,2,M,50,2,2,Supervisor,3,Casado,5916,15497,3,1,Sim,13,3,1,80,0,8,1,3,1,0,0,1
+38,Misto,1180,Engenharia,29,Médio completo,Medicina,1,282,2,M,70,3,2,Analista,1,Casado,6673,11354,7,1,Sim,19,3,2,80,0,17,2,3,1,0,0,0
+29,Misto,121,Vendas,27,Superior completo,Marketing,1,283,2,F,35,3,3,Vendedo senior,4,Casado,7639,24525,1,1,Não,22,4,4,80,3,10,3,2,10,4,1,9
+32,Misto,1045,Vendas,4,Superior incompleto - cursando,Medicina,1,291,4,M,32,1,3,Vendedo senior,4,Casado,10400,25812,1,1,Não,11,3,3,80,0,14,2,2,14,8,9,8
+30,Cliente,1005,Engenharia,3,Superior completo,Faculdade Técnica,1,297,4,F,88,3,1,Engenheiro,1,Solteiro,2657,8556,5,1,Sim,11,3,3,80,0,8,5,3,5,2,0,4
+30,Misto,334,Vendas,26,Superior incompleto - cursando,Marketing,1,299,3,F,52,2,2,Vendedo senior,1,Solteiro,6696,22967,5,1,Não,15,3,3,80,0,9,5,2,6,3,0,1
+29,Misto,992,Engenharia,1,Superior completo,Faculdade Técnica,1,300,3,M,85,3,1,Engenheiro,3,Solteiro,2058,19757,0,1,Não,14,3,4,80,0,7,1,2,6,2,1,5
+29,Misto,896,Engenharia,18,Médio completo,Medicina,1,315,3,M,86,2,1,Engenheiro,4,Solteiro,2389,14961,1,1,Sim,13,3,3,80,0,4,3,2,4,3,0,1
+33,Misto,813,Engenharia,14,Superior completo,Medicina,1,325,3,M,58,3,1,Tecnico,4,Casado,2436,22149,5,1,Sim,13,3,3,80,1,8,2,1,5,4,0,4
+33,Misto,465,Engenharia,2,Superior incompleto,Ciências das natureza,1,328,1,F,39,3,1,Tecnico,1,Casado,2707,21509,7,1,Não,20,4,1,80,0,13,3,4,9,7,1,7
+32,Cliente,515,Engenharia,1,Superior completo,Ciências das natureza,1,331,4,M,62,2,1,Tecnico,3,Solteiro,3730,9571,0,1,Sim,14,3,4,80,0,4,2,1,3,2,1,2
+37,Cliente,504,Engenharia,10,Superior completo,Medicina,1,342,1,M,61,3,3,Supervisor,3,Divorciado,10048,22573,6,1,Não,11,3,2,80,2,17,5,3,1,0,0,0
+31,Misto,307,Engenharia,29,Superior incompleto,Medicina,1,355,3,M,71,2,1,Tecnico,2,Solteiro,3479,11652,0,1,Não,11,3,2,80,0,6,2,4,5,4,1,4
+28,Escritório,529,Engenharia,2,Superior incompleto - cursando,Ciências das natureza,1,364,1,M,79,3,1,Tecnico,3,Solteiro,3485,14935,2,1,Não,11,3,3,80,0,5,5,1,0,0,0,0,
+47,Cliente,666,Engenharia,29,Superior incompleto - cursando,Ciências das natureza,1,376,1,M,88,3,3,Gerente,2,Casado,11849,10268,1,1,Sim,12,3,4,80,1,10,2,2,10,7,9,9
+44,Misto,920,Engenharia,24,Superior completo,Ciências das natureza,1,392,4,M,43,3,1,Tecnico,3,Divorciado,3161,19920,3,1,Sim,22,4,4,80,1,19,0,1,1,0,0,0
